@@ -1,0 +1,8 @@
+csc435hw06\core\JsonToWeather.class
+csc435hw06\jdbi\DataMapper.class
+csc435hw06\health\DatabaseHealthCheck.class
+csc435hw06\core\Data.class
+csc435hw06\jdbi\LocationMapper.class
+csc435hw06\jdbi\LocationDAO.class
+csc435hw06\jdbi\DataDAO.class
+csc435hw06\resources\DataResource.class
